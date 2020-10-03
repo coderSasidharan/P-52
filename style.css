@@ -1,0 +1,44 @@
+h1{
+    color: blue;    
+    margin: 20px
+}
+li{
+    color: brown;    
+    margin: 7px;
+    font-family: Impact
+}
+.header{
+    
+    
+    display: flex;
+    justify-content: center;
+    background-color: turquoise
+    
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px;
+    border: 2px solid #000000;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    font-family: fantasy
+}
+h2{
+    text-align: center;
+    
+}
+body{
+    margin: 0px;
+    background-color: #F2F2F2
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: purple;
+}
+.origami:hover{
+    transform: scale(1.2);
+}
